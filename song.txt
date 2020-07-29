@@ -5,7 +5,8 @@ Once again we add a new line.
  It's again new line
  
 
-new line yet again
+
+--merge the branches master, remotes/origin/master
 
 first commit in feature
 second commit in feature
